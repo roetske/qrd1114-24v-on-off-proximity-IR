@@ -1,0 +1,1 @@
+# qrd1114-24v-on-off-proximity-IR
