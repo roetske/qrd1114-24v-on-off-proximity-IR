@@ -2,7 +2,7 @@
 Found this sensor qrt1114 IR sensor from youtube sensing in sumobots.<br />
 
 This is a low range proximity sensor IR. Mostly used with analogue signal.<br />
-I wondered if can make a small range on off proximity switch with it? <br />
+I wondered if I can make a small range on off proximity switch with it? <br />
 I made the sensor circuit in 2 parts.<br /> 
 1)qrd1114 sensor to be put in tube.<br />
 2)output module which processes the signal to 24v on/off <br />
