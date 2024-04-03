@@ -22,4 +22,8 @@ Unwanted detection when flame is closeby, does not detect black objects.<br />
 Probably because of range setting in comparator of 2.5V.<br />
 Influence of other IR sources like lights is minimal.
 
+#youtube link testing lol
+
+https://www.youtube.com/watch?v=UcYunKqP2fQ
+
 
